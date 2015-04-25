@@ -1,0 +1,19 @@
+{
+  "name": "json-script",
+  "version": "0.0.1",
+  "description": "Run json as usual script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/desker/json-script"
+  },
+  "author": "Serg Desker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desker/json-script/issues"
+  },
+  "homepage": "https://github.com/desker/json-script"
+}
